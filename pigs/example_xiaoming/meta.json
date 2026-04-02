@@ -1,0 +1,25 @@
+{
+  "name": "小明",
+  "profile": {
+    "age": "25",
+    "gender": "男",
+    "occupation": "程序员",
+    "hobbies": "打游戏",
+    "mbti": "ENFP"
+  },
+  "tags": {
+    "personality": [
+      "话痨",
+      "爱发表情包"
+    ],
+    "interests": [
+      "游戏迷"
+    ]
+  },
+  "impression": "经常熬夜打游戏，话很多，爱发表情包",
+  "slug": "xiao-ming",
+  "created_at": "2026-04-02T06:04:59.803327+00:00",
+  "updated_at": "2026-04-02T06:04:59.803327+00:00",
+  "version": "v1",
+  "corrections_count": 0
+}
